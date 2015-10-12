@@ -2,7 +2,7 @@
   "auto_complete": true,
   "auto_complete_commit_on_tab": true,
   "auto_complete_with_fields": true,
-  "bold_folder_labels": false,
+  "bold_folder_labels": true,
   "default_encoding": "UTF-8",
   "detect_indentation": true,
   "ensure_newline_at_eof_on_save": true,
