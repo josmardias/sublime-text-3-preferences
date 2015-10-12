@@ -1,6 +1,6 @@
 {
   "cmd": ["maya-runner.py sublime-deploy $file_path"],
-  "working_dir": "${project_path:${folder:${file_path}}}",
+  "working_dir": "$folder",
   "shell": true,
   "path": "/home/josmar/git/maya/"
 }
