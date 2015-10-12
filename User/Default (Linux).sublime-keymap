@@ -1,0 +1,9 @@
+[
+  // Reveal the currently open file in the sidebar
+  { "keys": ["ctrl+."], "command": "reveal_in_side_bar" },
+
+  // swap the keybindings for paste and paste_and_indent
+  { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+  { "keys": ["ctrl+shift+v"], "command": "paste" },
+
+]

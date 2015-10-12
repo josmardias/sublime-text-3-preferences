@@ -1,0 +1,4 @@
+[{
+  "keys": ["alt+shift+f"],
+  "command": "htmlprettify"
+}]
