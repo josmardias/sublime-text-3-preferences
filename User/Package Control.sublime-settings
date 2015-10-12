@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"Babel",
+		"ColorPicker",
 		"Emmet",
+		"GitGutter",
 		"HTML-CSS-JS Prettify"
 	]
 }
