@@ -6,4 +6,11 @@
   { "keys": ["ctrl+v"], "command": "paste_and_indent" },
   { "keys": ["ctrl+shift+v"], "command": "paste" },
 
+  // fix multiple cursor not working on fedora linux gnome 3.16
+  { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+
+  // don't use tab stack order, use direct instead
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
